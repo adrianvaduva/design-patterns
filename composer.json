@@ -1,0 +1,20 @@
+{
+  "name": "adrianvaduva/design-patterns",
+  "description": "Design patterns in PHP",
+  "authors": [
+    {
+      "name": "Adrian Vaduva",
+      "email": "adrianvaduva11@mail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.1",
+    "phpunit/phpunit": ">=9.1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "DesignPatterns\\": ""
+    }
+  }
+}
