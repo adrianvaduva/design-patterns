@@ -9,6 +9,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
+    "ext-json": "*",
     "php": ">=7.1",
     "phpunit/phpunit": ">=9.1.1"
   },
